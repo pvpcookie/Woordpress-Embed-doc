@@ -1,4 +1,4 @@
-# Woordpress-Embed-doc
+# Wordpress-Embed-doc
 Embed document to you website form visual editor useing Google gview from google docs
 
 You can use the Visual editor or the Shortcode to embed documents:<br>
