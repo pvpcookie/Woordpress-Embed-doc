@@ -1,6 +1,7 @@
 <?php 
 /*
 Plugin Name: Google DOCs Embed
+Plugin URI: https://github.com/pvpcookie/Woordpress-Embed-doc
 Author: Shaun Hogan
 Description: Embed Doucment to your website with Google docs iframe. Supports almost every document format ( We love google ^_^ ). Use [googleembed] ($atts link, btn, width, height, btn-class, target, title)
 Version: 1.1
